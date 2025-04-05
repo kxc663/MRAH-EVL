@@ -1,0 +1,34 @@
+{
+  "Baseline - Desktop Fast Network": {
+    "FCP": 329.634,
+    "LCP": 329.634,
+    "CLS": 0,
+    "TBT": 0,
+    "TTI": 329.634,
+    "ScriptBytes": 589371
+  },
+  "Baseline - Mobile Slow 3G": {
+    "FCP": 753.1963000000001,
+    "LCP": 4437.80705,
+    "CLS": 0,
+    "TBT": 170,
+    "TTI": 4437.80705,
+    "ScriptBytes": 589371
+  },
+  "MRAH - Desktop Fast Network": {
+    "FCP": 224.123,
+    "LCP": 224.123,
+    "CLS": 0,
+    "TBT": 0,
+    "TTI": 234.678,
+    "ScriptBytes": 104938
+  },
+  "MRAH - Mobile Slow 3G": {
+    "FCP": 1688.1218,
+    "LCP": 1689.0937,
+    "CLS": 0,
+    "TBT": 0,
+    "TTI": 1689.0937,
+    "ScriptBytes": 104938
+  }
+}
